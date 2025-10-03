@@ -4,7 +4,7 @@ This project analyses employee data for a chocolate company with 161 employees.
 The Dashboard provides insightful visualizations and analysis of employee data by exploring the 
 factors like job role, education qualification, gender, age group and leave balance.
 
-### 🛠️ Tools used:
+### 🛠️Tools used:
 1. MS Excel
    
 2.Power BI
@@ -17,7 +17,7 @@ factors like job role, education qualification, gender, age group and leave bala
 
 6.KPI cards
 
-### 🔑 Key Insights:
+### 🔑Key Insights:
 Age spread of staff: The 30-35 age group has highest number of employees.
 
 Gender break-down of the staff: 55% of the employees are female.
