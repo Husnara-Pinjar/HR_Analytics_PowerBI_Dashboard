@@ -6,17 +6,17 @@ factors like job role, education qualification, gender, age group and leave bala
 
 ### 🛠️Tools used:
 
-  1. MS Excel
-   
-  2.Power BI
-
-  3.Power Query
-
-  4.Custom Measures
-
-  5.Interactive charts
-
-  6.KPI cards
+  1. MS Excel.
+     
+  2. Power BI.
+     
+  3. Power Query.
+     
+  4. Custom Measure.
+     
+  5. Interactive charts.
+      
+  6. KPI cards.
 
 ### 🔑Key Insights:
 Age spread of staff: The 30-35 age group has highest number of employees.
