@@ -5,6 +5,7 @@ The Dashboard provides insightful visualizations and analysis of employee data b
 factors like job role, education qualification, gender, age group and leave balance.
 
 ### 🛠️Tools used:
+
 1. MS Excel
    
 2.Power BI
